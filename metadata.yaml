@@ -1,0 +1,31 @@
+_repo: Slavery--What-it-was-what-it-has-done-what-it-intends-to-doSpeech-of-Hon.-Cydnor-B.-Tompkins-__27767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tompkins, Cydnor Bailey
+    birthdate: 1810
+    deathdate: 1862
+    gutenberg_agent_id: '32898'
+    url: http://www.gutenberg.org/2009/agents/32898
+    wikipedia: http://en.wikipedia.org/wiki/Cydnor_B._Tompkins
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2009-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Speeches in Congress'
+- !lcc 'E300'
+- !lcc 'HT'
+title: 'Slavery: What it was, what it has done, what it intends to do
+
+  Speech of Hon. Cydnor B. Tompkins, of Ohio'
+url: http://www.gutenberg.org/ebooks/27767
